@@ -8,3 +8,4 @@ Add to ./stories/:
 - Popul Voh, Mayan creation story
 - works of Ibn 'Arabi
 - Voluspa, Norse creation story
+- elements of the Bhagavatam?
