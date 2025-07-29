@@ -1,2 +1,6 @@
 interesting book
 - Facts and Speculation in Cosmology, Narlikar & Burbidge
+
+questions
+- What are conditions under which the simulation is "spoiled"?
+  - Which measurements? Is it necessary to understand what the measurement is evidence of?
